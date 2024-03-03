@@ -1,1 +1,1 @@
-# git remote add origin https://github.com/NubeEra-Samples/static-resources.git
+# git remote add origin https://github.com/NubeEra-Temps/static-resources.git
